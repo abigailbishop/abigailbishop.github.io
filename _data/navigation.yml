@@ -1,0 +1,20 @@
+ title: "Welcome"
+  url: "/"
+  side: left
+
+- title: "My Work"
+  url: "/MyWork/"
+  side: left
+
+- title: "My Adventures"
+  url: "/MyAdventures/"
+  side: left
+  dropdown:
+  - title: "AMC Astronomy - S17"
+    url: "/MyAdventures/AMCAstro"
+  - title: "Nevis Labs CERN REU - S18"
+    url: "/MyAdventures/NevisREU"
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
